@@ -1,0 +1,5 @@
+com\example\ajaxapp\controller\DataController.class
+com\example\ajaxapp\model\DataModel.class
+com\example\ajaxapp\repository\DataRepository.class
+com\example\ajaxapp\AjaxappApplication.class
+com\example\ajaxapp\service\DataService.class
